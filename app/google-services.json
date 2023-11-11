@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304691257257",
+    "project_id": "tplogin-77153",
+    "storage_bucket": "tplogin-77153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304691257257:android:d4c5b01f82eccc82e86eb8",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYKoSBf0KmSMYJJpHkHoMt31GrqREOEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
